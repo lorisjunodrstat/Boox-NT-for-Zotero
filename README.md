@@ -40,4 +40,4 @@ Si vous souhaitez compiler l'application vous-même avec **Android Studio** :
 
 1. Clonez ce dépôt :
    ```bash
-   git clone [https://github.com/votre-nom-utilisateur/Boox-NT-for-Zotero.git](https://github.com/votre-nom-utilisateur/Boox-NT-for-Zotero.git)
+   git clone [https://github.com/lorisjunodrstat/Boox-NT-for-Zotero.git]([https://github.com/votre-nom-utilisateur/Boox-NT-for-Zotero](https://github.com/lorisjunodrstat/Boox-NT-for-Zotero.git)
